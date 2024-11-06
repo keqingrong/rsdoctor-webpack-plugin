@@ -1,0 +1,19 @@
+{
+  "name": "@keqingrong/rsdoctor-webpack-plugin",
+  "version": "0.1.0",
+  "description": "A wrapper for @rsdoctor/webpack-plugin",
+  "main": "index.js",
+  "author": "keqingrong",
+  "license": "MIT",
+  "repository": "https://github.com/keqingrong/rsdoctor-webpack-plugin.git",
+  "homepage": "https://github.com/keqingrong/rsdoctor-webpack-plugin",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "peerDependencies": {
+    "@rsdoctor/webpack-plugin": "*"
+  },
+  "devDependencies": {
+    "@rsdoctor/webpack-plugin": "^0.4.2"
+  }
+}
